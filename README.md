@@ -4,6 +4,9 @@
 - 🌱 我正在学习 
 - 📫 通过 1913532130@qq.com 联系我
 
+### 我使用的编程语言
+![Python 3.7.4](https://img.shields.io/badge/Python_3.7.4-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![HTML 5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff) ![CSS 3](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-44CC11?style=for-the-badge&logo=JavaScript) ![JavaScript](https://img.shields.io/badge/XAML-3776AB?style=for-the-badge&logo=XAML)
+
 ### 统计信息（JingHai-Lingyun）
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JingHai-Lingyun&show_icons=true)](https://github.com/JingHai-Lingyun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingHai-Lingyun&layout=compact)](https://github.com/JingHai-Lingyun)
