@@ -12,9 +12,9 @@
 
 ### 统计信息（JingHai-Lingyun）
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JingHai-Lingyun&show_icons=true)](https://github.com/JingHai-Lingyun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingHai-Lingyun&layout=compact)](https://github.com/JingHai-Lingyun)
+[![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JingHai-Lingyun&theme=github)](https://github.com/JingHai-Lingyun)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JingHai-Lingyun&theme=github)](https://github.com/JingHai-Lingyun)
 
 ### 统计信息（LingyunAwA）
-[![My GitHub stats 2](https://github-readme-stats.vercel.app/api?username=LingyunAwA&show_icons=true)](https://github.com/JingHai-Lingyun)
-[![Top Langs 2](https://github-readme-stats.vercel.app/api/top-langs/?username=LingyunAwA&layout=compact)](https://github.com/JingHai-Lingyun)
+[![My GitHub stats 2](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LingyunAwA&theme=github)](https://github.com/JingHai-Lingyun)
+[![Top Langs 2](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LingyunAwA&theme=github)](https://github.com/JingHai-Lingyun)
