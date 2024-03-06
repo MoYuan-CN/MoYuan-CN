@@ -1,20 +1,34 @@
-### Hi 朋友 👋
+# Hello, I'm LingyunAwA
 
-这里是凌云。欢迎你来到我的个人主页
+👦 `HTML / Python` Developer\
+📝 The only way to do `great` is to `love` what you do.
 
-- 🔭 我正在 君庭阁（组织）工作
-- 🌱 我正在学习 Python
-- 📫 通过 1913532130@qq.com 联系我
+Email: [1913532130@qq.com](mailto:1913532130@qq.com)\
+Funding (On Wechat): [Here](https://www.lingyunawa.top/static/img/wxzsm.png)\
+Wechat Friend QRCode: [Here](https://www.lingyunawa.top/static/img/wx.png)\
+QQ Friend QRCode: [Here](https://www.lingyunawa.top/static/img/qq.png)
 
-### 我使用的编程语言
+---
 
-![Python 3.7.4](https://img.shields.io/badge/Python_3.7.4-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![HTML 5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff) ![CSS 3](https://img.shields.io/badge/CSS_3-563D7C?style=for-the-badge&logo=CSS3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=JavaScript&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/XAML-30A14E?style=for-the-badge&logo=XAML)
+# WebSite
+  - 君庭阁官网
+    - 属于我们自己的网站！
+    - https://mc521.cc
+   
+  - 君庭阁换肤站
+    - 搭配服务器的皮肤插件使用，效率非常高！
+    - http://154.7.177.68:6001
 
-### 统计信息（JingHai-Lingyun）
+  - More
+    - Let's look forward for my next work~
+   
+---
 
-[![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JingHai-Lingyun&theme=github)](https://github.com/JingHai-Lingyun)
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JingHai-Lingyun&theme=github)](https://github.com/JingHai-Lingyun)
+# Skills
 
-### 统计信息（LingyunAwA）
-[![My GitHub stats 2](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LingyunAwA&theme=github)](https://github.com/JingHai-Lingyun)
-[![Top Langs 2](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LingyunAwA&theme=github)](https://github.com/JingHai-Lingyun)
+![Skills](https://skillicons.dev/icons?i=html,css,less,javascript,vue,markdown,nodejs,npm,python,sqlite,git,vscode,visualstudio,github,githubactions,windows,linux&perline=18)
+
+---
+
+# My Github Commit
+![CommitCount](https://camo.githubusercontent.com/10836eb7650d7690f85eb64a6781646da1c77c2e532445430a781e2c7cf54001/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d4a696e674861692d4c696e6779756e267468656d653d676974687562) ![CommitType](https://camo.githubusercontent.com/0597ed03731c36ce95a6bffe567f7ddb1c415395655bcb7ef7b24ba223c04716/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d4a696e674861692d4c696e6779756e267468656d653d676974687562)
