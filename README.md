@@ -5,7 +5,7 @@
 
 邮箱: [1913532130@qq.com](mailto:1913532130@qq.com)\
 微信打赏: [Here](https://www.lingyunawa.top/static/img/wxzsm.png)\
-微型: [Here](https://www.lingyunawa.top/static/img/wx.png)\
+微信: [Here](https://www.lingyunawa.top/static/img/wx.png)\
 QQ: [Here](https://www.lingyunawa.top/static/img/qq.png)
 
 ---
