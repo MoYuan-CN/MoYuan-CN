@@ -3,7 +3,7 @@
 👦 `HTML / Python` Developer\
 📝 The only way to do `great` is to `love` what you do.
 
-邮箱: [1913532130@qq.com](mailto:1913532130@qq.com)\
+邮箱: [lingyun091015@outlook.com](mailto:lingyun091015@outlook.com)\
 微信打赏: [Here](https://lingyunawa.top/static/img/wxzsm.png)\
 微信: [Here](https://lingyunawa.top/static/img/wx.png)\
 QQ: [Here](https://lingyunawa.top/static/img/qq.png)
