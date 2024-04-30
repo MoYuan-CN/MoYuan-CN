@@ -5,7 +5,6 @@
 
 邮箱: [lingyun091015@outlook.com](mailto:lingyun091015@outlook.com)\
 微信打赏: [Here](https://lingyunawa.top/static/img/wxzsm.png)\
-微信: [Here](https://lingyunawa.top/static/img/wx.png)\
 QQ: [Here](https://lingyunawa.top/static/img/qq.png)
 
 ---
