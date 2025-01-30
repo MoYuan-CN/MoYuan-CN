@@ -10,7 +10,7 @@
 - 💬 你好，别来无恙呀！我是 凌云，你可以叫我 墨渊、Jim 等等你愿意的称呼！  
 *Hi there! I'm Lingyun, you can simply call me MoYuan, Jim, or whatever you like!*
 
-- 🌏 我是一名 (?) 学生，来自中国南方，现居住于福州市！  
+- 🌏 我是一名 初中 ~~(初几了来着?)~~ 学生，来自中国南方，现居住于福州市！  
 *I'm a middle school student from Southern China, currently living in FuZhou!*
 
 - 🧝‍ 我的 MBTI 类型是 管理者（ESTJ-A），擅长制定规则并高效执行，以确保社交和组织运作井然有序。  
