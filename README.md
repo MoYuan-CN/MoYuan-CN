@@ -20,7 +20,7 @@
 #### 现在正在做的事 Ongoing Tasks
 - ✏ 备战 2028 年 A-Level 考试 | Preparing for the 2028 A-Level Exam
 - 🖥️ 学习更多编程语言 | Learning more programming languages.
-- 🎭 组织管理 [云之岛开发组](https://github.com/Yuns-Lab) | Organizing and managing a Organization: [Yuns-Lab](https://github.com/Yuns-Lab).
+- 🎭 组织管理 [凌序（NEXORA）工作室](https://github.com/NEXORA-Studios) | Organizing and managing a Organization: [NEXORA Studios](https://github.com/NEXORA-Studios).
 - 🚧 开发 [下一代 PCL2 启动器：PCL II Nova](https://github.com/PCL-Community/PCL2.Nova.App) | Developing [Next Generation of PCL2：PCL II Nova](https://github.com/PCL-Community/PCL2.Nova.App)
 - 🛠 担任 [PCL2](https://github.com/Hex-Dragon/PCL2) 主仓库社区协管 | Being collaborator in [PCL2](https://github.com/Hex-Dragon/PCL2) repo.
 - 🕑 其他想到啥了再来补充吧 :D
@@ -32,7 +32,7 @@
 
 ### 🔎 野生凌云出没地点 🔍
   <!---相关链接--->
-[![image](https://img.shields.io/badge/-BiliBili(个人)-fb7299?style=for-the-badge)](https://space.bilibili.com/3546844227439249 "跳转 Bilibili 个人主页")[![image](https://img.shields.io/badge/-BiliBili(团队)-00AEE8?style=for-the-badge)](https://space.bilibili.com/3546632664648343 "跳转 Bilibili 团队主页")[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/Yuns-Lab "跳转 爱发电创作者页面")[![image](https://img.shields.io/badge/-Email-1074BE?style=for-the-badge)](mailto:jim.lin@yuns-lab.tech "向我发送邮件")[![image](https://img.shields.io/badge/-Steam-171A21?style=for-the-badge)](https://steamcommunity.com/id/LingyunAwA-CN/ "跳转 Steam 个人资料")
+[![image](https://img.shields.io/badge/-BiliBili(个人)-fb7299?style=for-the-badge)](https://space.bilibili.com/3546844227439249 "跳转 Bilibili 个人主页")[![image](https://img.shields.io/badge/-BiliBili(团队)-00AEE8?style=for-the-badge)](https://space.bilibili.com/3546632664648343 "跳转 Bilibili 团队主页")[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/NEXORA-Studios "跳转 爱发电创作者页面")[![image](https://img.shields.io/badge/-Email-1074BE?style=for-the-badge)](mailto:jim.lin@NEXORA-Studios.tech "向我发送邮件")[![image](https://img.shields.io/badge/-Steam-171A21?style=for-the-badge)](https://steamcommunity.com/id/LingyunAwA-CN/ "跳转 Steam 个人资料")
   <!---访问次数统计--->
 **自 2025 年 1 月以来，您是第** <img src="https://profile-counter.glitch.me/MoYuan-CN/count.svg" alt="icon" width="130px"> **位到访者**  
 </div>
