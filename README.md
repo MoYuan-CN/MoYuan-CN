@@ -32,7 +32,7 @@
 
 ### 🔎 野生凌云出没地点 🔍
   <!---相关链接--->
-[![image](https://img.shields.io/badge/-BiliBili(个人)-fb7299?style=for-the-badge)](https://space.bilibili.com/3546844227439249 "跳转 Bilibili 个人主页")[![image](https://img.shields.io/badge/-BiliBili(团队)-00AEE8?style=for-the-badge)](https://space.bilibili.com/3546632664648343 "跳转 Bilibili 团队主页")[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/NEXORA-Studios "跳转 爱发电创作者页面")[![image](https://img.shields.io/badge/-Email-1074BE?style=for-the-badge)](mailto:jim.lin@NEXORA-Studios.tech "向我发送邮件")[![image](https://img.shields.io/badge/-Steam-171A21?style=for-the-badge)](https://steamcommunity.com/id/LingyunAwA-CN/ "跳转 Steam 个人资料")
+[![image](https://img.shields.io/badge/-BiliBili(个人)-fb7299?style=for-the-badge)](https://space.bilibili.com/3546844227439249 "跳转 Bilibili 个人主页")[![image](https://img.shields.io/badge/-BiliBili(工作室)-00AEE8?style=for-the-badge)](https://space.bilibili.com/3546632664648343 "跳转 Bilibili 工作室主页")[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.com/a/NEXORA-Studios "跳转 工作室爱发电创作者页面")[![image](https://img.shields.io/badge/-Email-1074BE?style=for-the-badge)](mailto:jim.lin@NEXORA-Studios.tech "向我发送邮件")[![image](https://img.shields.io/badge/-Steam-171A21?style=for-the-badge)](https://steamcommunity.com/id/LingyunAwA-CN/ "跳转 Steam 个人资料")
   <!---访问次数统计--->
 **自 2025 年 1 月以来，您是第** <img src="https://profile-counter.glitch.me/MoYuan-CN/count.svg" alt="icon" width="130px"> **位到访者**  
 </div>
