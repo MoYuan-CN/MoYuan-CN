@@ -1,7 +1,5 @@
 ## ✨ 努力到无能为力，拼搏到感动自己。
 ***Try until you can do no more, strive until you move yourself to tears.***
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoYuan-CN&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="MoYuan-CN's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoYuan-CN&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 #### 介绍自己 Introduction
 
